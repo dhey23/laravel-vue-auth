@@ -16,6 +16,6 @@ Basically, feel free to use and re-use any way you want.
 
 ---
 
-## More from our LaravelDaily Team
+## More from our iFormatLogic Team
 
 - Check out our Github [Github.com](https://github.com/dhey23)
